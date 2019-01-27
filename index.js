@@ -10,5 +10,4 @@ function happyHolidayTo(string) {
 }
 function holidayCountdown(string) {
   return ("It\'s 3 days until Christmas"!);
-
 }
